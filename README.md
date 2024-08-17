@@ -6,7 +6,7 @@ An innovative project aimed at enhancing biometric recognition accuracy through 
 * 2)Windows 11 OS
 * 3)Minimum of 4GB RAM
 * Python Interpreter = 3.10
-5*Code Editor (VSC or Pycharm)
+* Code Editor (VSC or Pycharm)
 #
 # Windows
 pip install --upgrade mediapipe 
